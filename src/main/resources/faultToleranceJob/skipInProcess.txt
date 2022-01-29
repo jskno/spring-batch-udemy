@@ -1,0 +1,4 @@
+JsonOutStudent(id=30, nombre=Peter, appellido=Mark, email=peter@gmail.com) 
+JsonOutStudent(id=30, nombre=Peter, appellido=Mark, email=peter@gmail.com) 
+JsonOutStudent(id=30, nombre=Peter, appellido=Mark, email=peter@gmail.com) 
+JsonOutStudent(id=30, nombre=Peter, appellido=Mark, email=peter@gmail.com) 
